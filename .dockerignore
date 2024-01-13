@@ -3,12 +3,12 @@
 .gitignore
 
 # Docker
-.Docker
+.dobuilcker
 
 # python
 app/__pycache__/
-app//*/__pycache__/
-app//*/*/__pycache__/
+app/*/__pycache__/
+app/*/*/__pycache__/
 app/*/*/*/__pycache__/
 .env/
 .venv/
